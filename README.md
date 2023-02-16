@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @chanuka-dsc
 - 👀 I’m interested in web development
+- 🌱 I am currenlty learning Java
 - 💞️ I’m looking to collaborate on React projects
 
 
