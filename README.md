@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chanuka-dsc
-- 👀 I’m interested in web development
-- 🌱 I am currenlty learning Java
-- 💞️ I’m looking to collaborate on React projects
+- 👀 I’m interested in embedded systems 
+- 🌱 I am currenlty learning C, C++, Ada, and Haskell 
+- 💞️ I’m looking to collaborate on embedded systems projects
 
 
 <!---
